@@ -15,7 +15,7 @@
 ```FirmwareInfo.getFactoryInfo()```  
 获取产品供应商信息
 
-```FirmwareInfo.getProductInfo()```
+```FirmwareInfo.getProductInfo()```    
 获取产品型号信息
 
 ```FirmwareInfo.getSpecialInfo()```   
