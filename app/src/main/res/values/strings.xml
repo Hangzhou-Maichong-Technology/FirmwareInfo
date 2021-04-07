@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firmwareInfo</string>
+
+    <string name="factory">供应商 : %1$s</string>
+    <string name="product">产品型号 : %1$s</string>
+    <string name="special">定制信息 : %1$s</string>
+    <string name="cpu_type">CPU型号 : %1$s</string>
+    <string name="android_version">Android版本 : %1$s</string>
+    <string name="firmware_version">固件版本 : %1$s</string>
+    <string name="firmware_code">固件版本号 : %1$s</string>
+</resources>
